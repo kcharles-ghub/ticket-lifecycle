@@ -8,7 +8,7 @@ This tutorial provides a detailed explanation of the entire process a ticket goe
 ## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop (macOS)
+- Remote Desktop (Windows 11)
 - Internet Information Services (IIS)
 
 ## Operating Systems Used
