@@ -131,7 +131,7 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
 >**Note: *This is where you will see the history and updates of the tickets. &darr;***
 
 <p align="center">
-<img width="800" alt="isolated" src="https://i.imgur.com/UOOBCD6.png"><br>
+<img width="800" alt="isolated" src="https://i.imgur.com/dbqUE4A.png"><br>
 
 ***
 
@@ -169,6 +169,6 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
 *<ins>The ticket should now be on the "closed" tab since it has been resolved.</ins>*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://i.imgur.com/G4uqKcr.png"><br>
+<img width="800" alt="isolated" src="https://i.imgur.com/C0ctGsW.png"><br>
 
  Congratulations! You have successfully resolved your first ticket as a help desk support agent! 
