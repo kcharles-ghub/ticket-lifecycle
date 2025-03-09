@@ -69,7 +69,7 @@ The first thing we will do is create a ticket from the user end of the osTicket 
 - Click: The `entire mobile online banking is down`
   (this is the ticket we just created on the user end as Karen)
  
-<p align="center"><img src="https://i.imgur.com/1qsE9NG.png"/></p>
+<p align="center"><img src="https://i.imgur.com/GGe7Q3g.png"/></p>
 
 ***
 For the ticket to be handled properly, information regarding the severity level can be changed.
